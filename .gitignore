@@ -1,0 +1,17 @@
+.vs
+
+
+
+backend/__pycache__
+
+backend/results_storage/
+backend/document_storage/
+backend/venv
+backend/.env
+
+frontend/node_modules
+frontend/package-lock.json
+
+
+
+
